@@ -46,9 +46,34 @@
         "trees" : {
             "name" : "Planting Trees",
             "position" : "G",
-            "text" : "Planting and growing trees help reduce climate emissions by capturing carbon dioxide from the air.",
+            "text" : "Planting and growing trees help reduce climate emissions by capturing carbon dioxide from the air.  A tree can absorb up to 4 tones of CO2 over 20years - That's a hippo's worth of CO2",
             "type" : "solution"
 
+        },
+        "lights" : {
+            "name" : "Switching off lights",
+            "position" : "H",
+            "text" : "Using a traditional light bulb (incandescent) emits about 0.154 tonnes of CO2. Switching off the lights, and making more use of natural light could reduce emissions by the size of 1 bear",
+            "type" : "solution"
+        },
+        "alternative_transport" : {
+            "name" : "Walking or cycling",
+            "position" : "I",
+            "text" : "Walking or cycling could save 4.6 metric tonnes of CO2 per year - that's more than half an elephant ",
+            "type" : "solution"
+        },
+        "recycling_batteries" : {
+            "name" : "Recycling Batteries",
+            "position" : "J",
+            "text" : "Only 27% of batteries are recycled in UK, resulting in about 20,000 tonnes of battery waste - that's more than 2800 elephants! the size of 3,333 elephants",
+            "type": "solution"
+        },
+        "growing_food" : {
+            "name" : "Growing your own food",
+            "position" : "K",
+            "text" : "Growing food, like vegetables, in your garden can help reduce carbon emissions. By up to 0.03 tonnes.",
+            "type" : "solution"
         }
+
     }
 }
